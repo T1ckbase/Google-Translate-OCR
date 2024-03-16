@@ -14,5 +14,8 @@
 4. Enable Developer Mode.
 5. Drag the `Google-Translate-OCR-main` folder anywhere on the page to import it (do not delete the folder afterwards).
 
+### Features
+- Show detected text and translated text
+
 ### Screenshot
 ![screenshot](https://raw.githubusercontent.com/T1ckbase/Google-Translate-OCR/main/images/screenshot.png)
