@@ -4,7 +4,7 @@
 
 <h1 align="center">Google Translate OCR</h1>
 
-*OCR in google translate.*
+*OCR in [Google Translate](https://translate.google.com/).*
 
 ### Installation Instructions
 **Google Chrome / Microsoft Edge**
